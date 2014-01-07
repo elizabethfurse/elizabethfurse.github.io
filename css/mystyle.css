@@ -1,0 +1,317 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+/* Colors */
+/*
+    from dimensions app
+    var-orange: #F26522;
+
+    from barackobama
+    var-blue: #2e98cc;
+    var-active-blue: #167DAF;
+
+    from calagator
+    var-green: #82c555;
+    var-olive: #BCF794;
+*/
+
+/* Typography */
+
+
+nav .pure-menu a, #signup, #endorse, .news h2, .news h3, footer h2, footer h3, footer p {
+    font-family: 'Roboto', 'Arial', sans-serif;
+}
+
+
+
+/* from http://www.jonikorpi.com/leaving-old-IE-behind/ */
+body {
+    width: auto;
+}
+.lt-ie9 body {
+    width: 800px;
+    text-align:center;
+}
+.lt-ie9 wrapper {
+    text-align: left;
+}
+
+
+#content figure {
+    width: 240px;
+    max-width: 100%;
+}
+.lt-ie9 #content figure {width: 480px;}
+
+#masthead {
+    height: 100px;
+    background: url("../images/masthead-logo.png") no-repeat;
+    /*background: url("../images/banner-experiment4b.jpg") no-repeat;*/
+    /*height: 150px;*/
+
+    background-position: 0px;
+}
+
+nav {
+    background: #2e98cc;
+    height: 38px;
+}
+
+nav .pure-menu a {
+    background: #2e98cc;
+    color: white;
+    font-size: 16px;
+    text-transform: uppercase;
+
+
+    font-weight: bold;
+
+    -webkit-transition: background 500ms ease,box-shadow 500ms ease;
+    -moz-transition: background 500ms ease,box-shadow 500ms ease;
+    -o-transition: background 500ms ease,box-shadow 500ms ease;
+    transition: background 500ms ease,box-shadow 500ms ease;
+
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border: none;
+}
+
+nav .pure-menu a:hover, nav .pure-menu a:focus {
+    /*background-color: #0078e7;*/
+    background-color: #167DAF;
+    text-shadow: 1px 1px 0 rgba(0,0,0,0.3);
+    /*box-shadow: inset 0 0 10px rgba(0,0,0,0.5);*/
+}
+
+nav .pure-menu .pure-menu-selected a {
+    color: white;
+    background-color: #167DAF;
+    /*background-color: #0078e7;*/
+    text-shadow: 1px 1px 0 rgba(0,0,0,0.3);
+}
+
+nav .pure-menu ul { float: right; }
+
+.home {
+   /*background: url("../images/home-w.png") no-repeat;*/
+   /*background-position-y: 6px;*/
+   /*width: 22px;*/
+   /*background-size: 20px;*/
+}
+
+.home a {
+    position: relative;
+    left: -10000px;
+}
+
+nav .pure-menu .donate {
+    background-color: #d22229;
+}
+nav .pure-menu .donate:hover, nav .pure-menu .donate:focus {
+    background-color: #d22229;
+    box-shadow: inset 0 0 10px rgba(0,0,0,0.5);
+}
+
+
+.featured-image {
+    /* background: green; */
+    overflow: hidden;
+    margin-bottom: 13px;
+}
+
+.featured-image img {
+    max-width: 100%;
+
+    /* hacks, remove */
+    position: relative;
+
+
+}
+
+#wrapper {
+    /*max-width: 800px;*/
+    width: 800px;
+    min-width: 800px;
+    margin: 0 auto;
+}
+
+footer {
+    background: #333;
+    /* height: 200px; */
+    /*border-radius: 3px;*/
+    /*color: white;*/
+    font-family: 'Roboto';
+    font-weight: normal;
+    padding: 10px;
+}
+
+.news h2, .news h3, footer h2 {
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+
+
+
+
+aside#endorse {
+    margin-left: 13px;
+    /* HACK */
+    height: 157px;
+}
+
+
+.primary-column {
+    /*padding-right: 25px;*/
+   /* padding-left: 8px;*/
+   padding-right: 13px;
+
+    box-sizing: border-box;
+}
+
+
+.letter {
+    padding-left: 8px;
+    padding-right: 13px;
+    font-size: 1.2em;
+}
+
+.letter h1, .letter .signature {
+    font-family: 'Neuton Cursive', Garamond, serif;
+}
+.letter h1 {
+    color: white;
+    text-shadow: 1px 1px 0px black;
+    font-size: 4em;
+    font-weight: normal;
+}
+.letter .signature, .letter p {
+    font-size: 1.1em;
+}
+
+.readmore {
+    font-family: Neuton;
+    font-style: italic;
+    background: #E9E9E9;
+    padding: 2px 4px;
+    border: 1px solid #C8E7F7; /* slightly blue */
+}
+
+
+.letter p {
+    font-family: 'Neuton', 'Times New Roman', serif;
+}
+
+nav, #signup, #endorse, .fb-like-box, footer {
+    margin-bottom: 13px;
+}
+/* .featured-image not right now, since the comma in the image sticks down */
+/*
+.featured-image {
+    margin-bottom: 13px;
+}
+*/
+
+#signup, #endorse, footer {
+    background: #333;
+    color: #eee;
+    padding: 10px;
+    border-radius: 3px;
+}
+#signup h3, #endorse h3, footer h3 {
+    text-transform: uppercase;
+    font-weight: normal;
+    margin-top: 0;
+}
+#signup p, #endorse p, footer p {
+    /*font-family: 'Roboto', 'Arial', sans-serif;*/
+    /*text-transform: uppercase;*/
+    font-weight: 100;
+}
+footer a {
+    color: #9BE2DC
+}
+#signup label, #endorse label {
+    /*font-family: 'Roboto', 'Arial', sans-serif;*/
+    /*text-transform: uppercase;*/
+    font-weight: 100;
+}
+#endorse #volunteer {
+    text-align: center;
+    margin-bottom: 1em;
+}
+#endorse input { font-size: 1em; }
+#signup .email {
+    font-size: 16px;
+
+    /* height: 28px; */
+    border-radius: 2px;
+    border: none;
+    border: aliceblue;
+    width: 158px;
+}
+#signup .subscribe {
+    /* width: 100px; */
+    margin-left: 3px;
+    color: aliceblue;
+    /* height: 28px; */
+    /* padding: 0; */
+
+}
+
+#endorse .pure-form-aligned .pure-control-group label {
+    width: 6em; /* slightly narrower than default, so we get side-by-side layout */
+}
+/*
+#endorse .submit {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}*/
+
+
+.news {
+    border-top: 1px solid #e2e2e2;
+    margin-right: 13px;
+}
+
+.fb-like-box {
+    overflow: hidden
+}
+.fb-like-box iframe {
+    border-color: #a5a5a5;
+    border-radius: 3px;
+    background: white;
+}
+
+
+#copyright {
+    margin: 0 auto;
+    margin-bottom: .5em;
+
+    text-align: center;
+    display: block;
+    color: #a5a5a5;
+}
+
+
+
+
+
+
+/******* Pages *************/
+
+article {
+    border-bottom: 1px solid #e2e2e2;
+}
+
+article h3 {
+    font-family: 'Roboto', Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: normal;
+    color: #425042
+}
