@@ -319,6 +319,18 @@ footer a {
     margin-bottom: 27px;
 }
 
+#masthead {
+    height: 46px;
+    background-image: none;
+}
+#masthead img {
+    position: relative;
+    z-index: 1;
+}
+.featured-image { z-index: -1; }
+
+.letter-page nav, #volunteer-page nav {margin-bottom: 6em;}
+
 /******* Pages *************/
 
 article {
