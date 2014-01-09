@@ -35,9 +35,11 @@ body {
     width: 800px;
     text-align:center;
 }
-.lt-ie9 wrapper {
+.lt-ie9 #wrapper {
     text-align: left;
 }
+
+
 
 
 #content figure {
@@ -298,10 +300,24 @@ footer a {
     color: #a5a5a5;
 }
 
+/* hide some default google forms stuff */
+.ss-required-asterisk, .required-message, .ss-secondary-text, .powered-by-logo, .ss-terms { display: none; }
+
+.docs-offscreen {display: none;}
+
+/* google forms styling */
+.ss-q-title { font-weight: bold; }
+.ss-form-question { margin-top: 1em; }
+.ss-choice-item { list-style-type: none; }
 
 
+.pure-g-r input {
+    max-width: 12em;
+}
 
-
+#endorse .pure-form-aligned .mc-field-group {
+    margin-bottom: 27px;
+}
 
 /******* Pages *************/
 
