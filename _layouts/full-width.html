@@ -1,0 +1,43 @@
+{% include top.html %}
+
+<body class="{% if page.url contains 'volunteer' %}volunteer-page {% endif %}{% if page.url contains 'supporters' %}supporters-page{% endif %}">
+
+    <div id="wrapper">
+
+        {% include header.html %}
+
+        <section>
+
+            {{ content }}
+
+
+
+            {% unless page.url contains 'volunteer' or page.url contains 'donate' %}
+            <div class="pure-g-r">
+
+                <div class="pure-u-2-5">
+
+                    {% include email-signup-box.html %}
+
+                </div>
+
+                <div class="pure-u-3-5">
+
+                    {% include endorse-box.html %}
+
+                </div>
+            </div> <!-- /grid -->
+            {% endunless %}
+
+        </section>
+
+        {% include footer.html %}
+
+    </div> <!--/#wrapper-->
+
+        {% include scripts.html %}
+        {% include analytics.html %}
+
+</body>
+</html>
+

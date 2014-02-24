@@ -1,0 +1,27 @@
+<ul>
+
+    <li class="{% if page.overview %}pure-menu-selected{% endif %}">
+        <a class="home" href="index.html">Home</a>
+    </li>
+
+    <li class="{% if page.url contains '/meet' %}pure-menu-selected{% endif %}">
+        <a href="meet.html">Meet Elizabeth</a>
+    </li>
+
+    <li class="{% if page.url contains '/issues' %}pure-menu-selected{% endif %}">
+        <a href="issues.html">Issues</a>
+    </li>
+
+    <li class="{% if page.url contains '/supporters' %}pure-menu-selected{% endif %}">
+        <a href="supporters.html">Supporters</a>
+    </li>
+
+    <li class="{% if page.url contains '/volunteer' %}pure-menu-selected{% endif %}">
+        <a href="volunteer.html">Volunteer</a>
+    </li>
+
+    <li class="{% if page.url contains '/donate' %}pure-menu-selected{% endif %}">
+        <a class="donate" href="https://secure.c-esystems.com/elizabethfurse/donation.aspx">Donate</a>
+    </li>
+
+</ul>
