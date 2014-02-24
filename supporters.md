@@ -1,6 +1,7 @@
 ---
-layout: full-width
+layout: "full-width"
 title: Endorsements of Elizabeth Furse for Washington County Commission District 4
+published: true
 ---
 
 # Endorsements and Support
@@ -24,16 +25,24 @@ Elizabeth is proud to have strong support from residents, community leaders, and
 ## Civic leaders and citizens
 
 * Mary Scurlock Adamson
+- David Allie
+- Robin Allie
 * Terry Bean
 * Meeky Blizzard
 * Ben Bowman
 * Nathalie Darcy
 * Russ Dondero
 * Jean Edwards
-* Leslie Faught
+* Debby Garman
+- Beth Genly
+- Polly Gottesman
+- Leslie Faught
+- Michael Fox
 * Lyn Jacobs
+- James Just
 * Terry Johnson
 * Nancy Lee Willlmes
+- Robin Lindsley
 * Jennifer Lewis
 * Kathryn Madison
 * Lupita Maurer
@@ -41,9 +50,12 @@ Elizabeth is proud to have strong support from residents, community leaders, and
 * Martha Neuringer
 * Karen Packer
 * Stephen Packer
+- Judi Palembo
 * Jeffrey Petrillo
 * Connie Price
 * Virginia Rawak Bruce
+- Betty Richard
+- John Richard
 * Don Schoen
 * Thomas Thrall
 * Josh Townsley
