@@ -36,6 +36,9 @@ Elizabeth is proud to have strong support from residents, community leaders, and
 * Debby Garman
 - Beth Genly
 - Polly Gottesman
+- Teresa Grossen Brandt
+- Ben Grossen
+- Alice Grossen
 - Leslie Faught
 - Michael Fox
 * Lyn Jacobs
@@ -57,6 +60,7 @@ Elizabeth is proud to have strong support from residents, community leaders, and
 - Betty Richard
 - John Richard
 * Don Schoen
+- Gail Shibley
 * Thomas Thrall
 * Josh Townsley
 * Dave VanAsche
