@@ -33,6 +33,8 @@ Elizabeth is proud to have strong support from residents, community leaders, and
 * Nathalie Darcy
 * Russ Dondero
 * Jean Edwards
+- Linda Erickson
+- Paul Erickson
 * Debby Garman
 - Beth Genly
 - Polly Gottesman
