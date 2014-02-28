@@ -13,9 +13,10 @@ Elizabeth is proud to have strong support from residents, community leaders, and
 ## Current and former elected officials
 
 * Congresswoman Suzanne Bonamici
-* Representative Ben Unger
-* Representative Joe Gallegos
-* Representative Debbie Boone
+- State Senator Mark Hass
+* State Representative Ben Unger
+* State Representative Joe Gallegos
+* State Representative Debbie Boone
 * Former Washington County Commission Chair Linda Peters
 * Former Governor Barbara Roberts
 * Former Governor Ted Kulongoski
