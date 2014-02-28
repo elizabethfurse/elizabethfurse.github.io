@@ -25,11 +25,14 @@ Elizabeth is proud to have strong support from residents, community leaders, and
 ## Civic leaders and citizens
 
 * Mary Scurlock Adamson
+- Bev Aldrich
 - David Allie
 - Robin Allie
 * Terry Bean
+- Shanti Binder
 * Meeky Blizzard
 * Ben Bowman
+- Rosa Colquitt
 * Nathalie Darcy
 * Russ Dondero
 * Jean Edwards
@@ -41,11 +44,15 @@ Elizabeth is proud to have strong support from residents, community leaders, and
 - Teresa Grossen Brandt
 - Ben Grossen
 - Alice Grossen
+- Laird Hastay
+- Walt Hellman
+- Mary Hoffman
 - Leslie Faught
 - Michael Fox
 * Lyn Jacobs
 - James Just
 * Terry Johnson
+- Ed Labadie
 * Nancy Lee Willlmes
 - Robin Lindsley
 * Jennifer Lewis
@@ -61,12 +68,14 @@ Elizabeth is proud to have strong support from residents, community leaders, and
 * Virginia Rawak Bruce
 - Betty Richard
 - John Richard
+- Dennis Rychlik
 * Don Schoen
 - Gail Shibley
 * Thomas Thrall
 * Josh Townsley
 * Dave VanAsche
 * Ellen VanAsche
+- Willow Washburn
 * Peter Welte
 * Donald Wharton
 * Jodi Wiser
