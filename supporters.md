@@ -76,6 +76,8 @@ Elizabeth is proud to have strong support from residents, community leaders, and
 * Josh Townsley
 * Dave VanAsche
 * Ellen VanAsche
+- David Vernier
+- Christine Vernier
 - Willow Washburn
 * Peter Welte
 * Donald Wharton
