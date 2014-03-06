@@ -13,13 +13,15 @@ Elizabeth is proud to have strong support from residents, community leaders, and
 ## Current and former elected officials
 
 * Congresswoman Suzanne Bonamici
+- Governor Barbara Roberts
+- Governor Ted Kulongoski
 - State Senator Mark Hass
 * State Representative Ben Unger
 * State Representative Joe Gallegos
 * State Representative Debbie Boone
+- Hillsboro School Board Member Janeen Sollman
+- Forest Grove School Board Member Kate Grandusky
 * Former Washington County Commission Chair Linda Peters
-* Former Governor Barbara Roberts
-* Former Governor Ted Kulongoski
 * Former Secretary of State Bill Bradbury
 * Former Metro Councilor Susan Mclain
 
