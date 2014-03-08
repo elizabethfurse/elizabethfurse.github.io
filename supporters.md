@@ -16,6 +16,7 @@ Elizabeth is proud to have strong support from residents, community leaders, and
 - Governor Barbara Roberts
 - Governor Ted Kulongoski
 - State Senator Mark Hass
+- State Senator Chip Shields
 * State Representative Ben Unger
 * State Representative Joe Gallegos
 * State Representative Debbie Boone
