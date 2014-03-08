@@ -20,6 +20,7 @@ Elizabeth is proud to have strong support from residents, community leaders, and
 * State Representative Ben Unger
 * State Representative Joe Gallegos
 * State Representative Debbie Boone
+- Metro Councilor Bob Stacey
 - Hillsboro School Board Member Janeen Sollman
 - Forest Grove School Board Member Kate Grandusky
 * Former Washington County Commission Chair Linda Peters
