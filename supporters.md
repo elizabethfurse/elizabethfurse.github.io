@@ -8,7 +8,11 @@ published: true
 
 Elizabeth is proud to have strong support from residents, community leaders, and elected officials. If you're ready to join in support, [sign up below](#endorse).
 
-
+## Community Organizations
+- N.W. Oregon Labor Council
+- United Food and Commercial Workers Local 555
+- The Oregon League of Conservation Voters
+- The Oregon Arts PAC
 
 ## Current and former elected officials
 
