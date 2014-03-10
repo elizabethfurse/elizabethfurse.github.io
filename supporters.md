@@ -23,8 +23,9 @@ Elizabeth is proud to have strong support from residents, community leaders, and
 - State Senator Chip Shields
 * State Representative Ben Unger
 * State Representative Joe Gallegos
-- State Representative Chris Harker
-* State Representative Debbie Boone
+- State Representative Debbie Boone
+* State Representative Chris Harker
+- State Representative Alissa Keny-Guyer
 - Metro Councilor Bob Stacey
 - Hillsboro School Board Member Janeen Sollman
 - Forest Grove School Board Member Kate Grandusky
