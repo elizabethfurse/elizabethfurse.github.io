@@ -19,6 +19,7 @@ Elizabeth is proud to have strong support from residents, community leaders, and
 - State Senator Chip Shields
 * State Representative Ben Unger
 * State Representative Joe Gallegos
+- State Representative Chris Harker
 * State Representative Debbie Boone
 - Metro Councilor Bob Stacey
 - Hillsboro School Board Member Janeen Sollman
@@ -26,6 +27,7 @@ Elizabeth is proud to have strong support from residents, community leaders, and
 * Former Washington County Commission Chair Linda Peters
 * Former Secretary of State Bill Bradbury
 * Former Metro Councilor Susan Mclain
+- Former State Representative Chuck Riley
 
 ## Civic leaders and citizens
 
