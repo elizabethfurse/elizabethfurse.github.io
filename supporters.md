@@ -17,9 +17,9 @@ Elizabeth is proud to have strong support from residents, community leaders, and
 ## Current and former elected officials
 
 * Congresswoman Suzanne Bonamici
+- Oregon Labor Commissioner Brad Avakian
 - Governor Barbara Roberts
 - Governor Ted Kulongoski
-- Oregon Labor Commissioner Brad Avakian
 - State Senator Mark Hass
 - State Senator Chip Shields
 * State Representative Ben Unger
