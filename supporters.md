@@ -20,6 +20,10 @@ Elizabeth is proud to have strong support from residents, community leaders, and
 - Oregon Labor Commissioner Brad Avakian
 - Governor Barbara Roberts
 - Governor Ted Kulongoski
+- Washington County Commissioner Greg Malinowski
+- Washington County Commissioner Dick Schouten 
+- Hillsboro School Board Member Janeen Sollman
+- Forest Grove School Board Member Kate Grandusky
 - State Senator Mark Hass
 - State Senator Chip Shields
 * State Representative Ben Unger
@@ -28,8 +32,6 @@ Elizabeth is proud to have strong support from residents, community leaders, and
 * State Representative Chris Harker
 - State Representative Alissa Keny-Guyer
 - Metro Councilor Bob Stacey
-- Hillsboro School Board Member Janeen Sollman
-- Forest Grove School Board Member Kate Grandusky
 * Former Washington County Commission Chair Linda Peters
 * Former Secretary of State Bill Bradbury
 * Former Metro Councilor Susan Mclain
