@@ -86,6 +86,7 @@ Elizabeth is proud to have strong support from residents, community leaders, and
 - Dennis Rychlik
 * Don Schoen
 - Gail Shibley
+- Lyle Spiesschaert
 * Thomas Thrall
 * Josh Townsley
 * Dave VanAsche
