@@ -4,6 +4,7 @@ title: Endorsements of Elizabeth Furse for Washington County Commission District
 published: true
 ---
 
+![](//douganddawnupdated.jpg)
 # Endorsements and Support
 
 Elizabeth is proud to have strong support from residents, community leaders, and elected officials. If you're ready to join in support, [sign up below](#endorse).
