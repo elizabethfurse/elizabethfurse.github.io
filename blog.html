@@ -1,0 +1,17 @@
+---
+layout: default
+title: Updates | Elizabeth Furse for Washington County Commission District 4
+published: true
+---
+
+
+<section class="news">
+    <h3>Read the latest:</h3>
+
+	{% for post in site.posts %}
+	    <li>
+	      <article><a href="{{ post.url }}">{{ post.title }}</a> <span class="date"> {{ post.date }} </span></article>
+	    </li>
+	{% endfor %}
+
+</section> 

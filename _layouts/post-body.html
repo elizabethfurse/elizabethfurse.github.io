@@ -1,0 +1,87 @@
+{% include top.html %}
+
+<body>
+
+    <div id="wrapper">
+
+        {% include header.html %}
+
+         <div class="featured-image">
+                <a href="/letter.html">
+                    <img src="/images/furse7d-text.jpg" alt="Elizabeth Furse for Washington County Commission">
+                </a>
+            </div>
+
+        <section class="blog-post">
+
+
+            <div class="pure-g-r">
+                <div class="pure-u-3-5"> <!-- main-col -->
+
+                    {{ content }}
+
+                    <!-- <div class="posts">Blog</div> -->
+
+                    <!--
+                    <div class="news">
+                        <h3>Read the latest:</h3>
+                        <ul>
+                            <li>
+                                <article>
+                                    <a href="#">This thing happened.</a>
+                                    <span class="date">January 10th, 2014</span>
+                                </article>
+                            </li>
+                            <li>
+                                <article>
+                                    <a href="#">This thing happened.</a>
+                                    <span class="date">January 10th, 2014</span>
+                                </article>
+                            </li>
+                        </ul>
+                        <p><a href="/latest/">Read all news and updates.</a></p>
+
+                    </div> <! /news -->
+
+                </div> <!-- /main-col -->
+
+                <div class="pure-u-2-5"> <!-- sidebar -->
+
+
+                    <div class="fb-like-box" data-href="http://www.facebook.com/furseforwashingtoncounty" data-width="320" data-height="1000px" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="true" data-show-border="true"></div>
+
+                    <!-- EVENTS -->
+
+                    <!--  <iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=250&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=tgraeqi7pti7nnms5kcam4q4ec%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=America%2FLos_Angeles" style="border:none" width="320" height="250" frameborder="0" scrolling="no"></iframe> -->
+
+                </div> <!-- /sidebar -->
+            </div>
+        </section>
+
+
+
+            <div class="pure-g-r">
+
+                <div class="pure-u-2-5">
+
+                    {% include email-signup-box.html %}
+
+                </div>
+
+                <div class="pure-u-3-5">
+
+                    {% include endorse-box.html %}
+
+                </div>
+            </div> <!-- /grid -->
+
+        {% include footer.html %}
+
+    </div> <!--/#wrapper-->
+
+        {% include scripts.html %}
+        {% include analytics.html %}
+
+</body>
+</html>
+
