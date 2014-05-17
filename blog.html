@@ -9,8 +9,8 @@ published: true
     <h3>Read the latest:</h3>
 
 	{% for post in site.posts %}
-	    <li>
-	      <article><a href="{{ post.url }}">{{ post.title }}</a> <span class="date"> {{ post.date }} </span></article>
+	    <li class="postlist">
+	      <a href="{{ post.url }}">{{ post.headline }}</a> <br> <span class="date"> {{ post.date | date: "%A, %b %d" }} </span>
 	    </li>
 	{% endfor %}
 

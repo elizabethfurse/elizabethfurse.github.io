@@ -361,3 +361,10 @@ article h3 {
 .post {
     padding-right: 20px; /* get away from facebook thing */
 }
+
+li.postlist {
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 0;
+    margin-bottom: 2em;
+}
