@@ -21,7 +21,7 @@
 /* Typography */
 
 
-nav .pure-menu a, #signup, #endorse, .news h2, .news h3, footer h2, footer h3, footer p {
+nav .pure-menu a, #signup, #endorse, #blog, .news h2, .news h3, footer h2, footer h3, footer p {
     font-family: 'Roboto', 'Arial', sans-serif;
 }
 
@@ -163,7 +163,7 @@ footer .box {
 
 
 
-aside#endorse {
+aside#endorse, aside#blog {
     margin-left: 13px;
     /* HACK */
     height: 157px;
@@ -211,7 +211,7 @@ aside#endorse {
     font-family: 'Neuton', 'Times New Roman', serif;
 }
 
-nav, #signup, #endorse, .fb-like-box, footer .box {
+nav, #signup, #endorse, #blog, .fb-like-box, footer .box {
     margin-bottom: 13px;
 }
 /* .featured-image not right now, since the comma in the image sticks down */
@@ -221,18 +221,18 @@ nav, #signup, #endorse, .fb-like-box, footer .box {
 }
 */
 
-#signup, #endorse, footer .box {
+#signup, #endorse, #blog, footer .box {
     background: #333;
     color: #eee;
     padding: 10px;
     border-radius: 3px;
 }
-#signup h3, #endorse h3, footer h3 {
+#signup h3, #endorse h3, #blog h3, footer h3 {
     text-transform: uppercase;
     font-weight: normal;
     margin-top: 0;
 }
-#signup p, #endorse p, footer p {
+#signup p, #endorse p, #blog p, footer p {
     /*font-family: 'Roboto', 'Arial', sans-serif;*/
     /*text-transform: uppercase;*/
     font-weight: 100;
@@ -367,4 +367,18 @@ li.postlist {
     padding-left: 0;
     margin-left: 0;
     margin-bottom: 2em;
+}
+
+aside#blog a {
+    font-weight: 100;
+    color: white;
+}
+
+aside#blog ul, aside#blog li {
+    margin: 0;
+    padding: 0;
+}
+
+aside#blog div.read-more {
+    margin-top: 11px;
 }
