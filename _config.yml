@@ -1,4 +1,4 @@
 name: Elizabeth Furse for Washington County Commission District 4
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 google_analytics_id: UA-47041354-1
