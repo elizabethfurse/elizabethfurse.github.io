@@ -118,8 +118,8 @@ nav .pure-menu .donate:hover, nav .pure-menu .donate:focus {
 }
 
 .pure-menu li a {
-    padding-right: 10px;
-    padding-left: 10px;
+    padding-right: 9px;
+    padding-left: 9px;
 }
 
 .featured-image {
@@ -329,7 +329,7 @@ footer a {
 }
 #masthead img {
     position: relative;
-    z-index: 1;
+    z-index: 2;
 }
 .featured-image { z-index: -1; }
 
